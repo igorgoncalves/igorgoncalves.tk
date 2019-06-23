@@ -1,0 +1,4 @@
+baseURL = "http://igorgoncalves.tk/"
+languageCode = "en-us"
+title = "Igor Gonçalves - Indie Developer"
+theme = "uilite"
